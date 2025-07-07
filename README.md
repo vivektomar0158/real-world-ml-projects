@@ -3,7 +3,7 @@
 Welcome to my collection of end-to-end machine learning projects! Each project in this repository is based on real-world datasets and explores practical problems across different industries — from healthcare to business and equipment sales. These projects demonstrate my ability to clean data, engineer features, train and evaluate models, and communicate results clearly.
 
 ### Projects Overview
-1. Heart Disease Prediction
+## 1. Heart Disease Prediction
 Goal: Predict whether a patient has heart disease based on clinical features like age, chest pain type, cholesterol levels, and more.
 
 ## What I did:
